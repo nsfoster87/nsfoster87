@@ -1,12 +1,6 @@
 # Hi there, I'm Nate 👋
 
-## I'm an actor, teacher, and fullstack software developer
-
-### The Socials:
-
-[![linkedin](./img/linkedin.svg)](https://linkedin.com/in/nate-foster)
-&nbsp;&nbsp;
-[![instagram](./img/instagram.svg)](https://instagram.com/natefosters)
+## I'm a fullstack software developer
 
 ### Languages and Tools:
 
