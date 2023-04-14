@@ -1,6 +1,6 @@
-# Hi there, I'm Nate 👋🏼
+# Hi there, welcome to my Github 👋🏼
 
-## I'm a fullstack software developer
+## My name is Nate, and I'm a fullstack software developer
 
 ### Languages and Tools:
 
