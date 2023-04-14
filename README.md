@@ -4,11 +4,9 @@
 
 ### The Socials:
 
-[![website](./img/linkedin-light.svg)](https://linkedin.com/in/nate-foster#gh-light-mode-only)
-[![website](./img/linkedin-dark.svg)](https://linkedin.com/in/nate-foster#gh-dark-mode-only)
+[![linkedin](./img/linkedin.svg)](https://linkedin.com/in/nate-foster)
 &nbsp;&nbsp;
-[![website](./img/instagram-light.svg)](https://instagram.com/natefosters#gh-light-mode-only)
-[![website](./img/instagram-dark.svg)](https://instagram.com/natefosters#gh-dark-mode-only)
+[![instagram](./img/instagram.svg)](https://instagram.com/natefosters)
 
 ### Languages and Tools:
 
@@ -21,5 +19,7 @@
 <img align="left" alt="MongoDB" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" style="padding-right:10px;" />
 <img align="left" alt="MySQL" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" style="padding-right:10px;" />
 <img align="left" alt="Git" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" style="padding-right:10px;" />
-<img align="left" alt="GitHub" width="26px" src="https://user-images.githubusercontent.com/3369400/139447912-e0f43f33-6d9f-45f8-be46-2df5bbc91289.png" style="padding-right:10px;" />
 <img align="left" alt="GitHub" width="26px" src="https://user-images.githubusercontent.com/3369400/139448065-39a229ba-4b06-434b-bc67-616e2ed80c8f.png" style="padding-right:10px;" />
+
+[linkedin]: https://linkedin.com/in/nate-foster
+[instagram]: https://instagram.com/natefosters
