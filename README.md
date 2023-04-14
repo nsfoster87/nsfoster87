@@ -15,5 +15,14 @@
 <img align="left" alt="Git" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" style="padding-right:10px;" />
 <img align="left" alt="GitHub" width="26px" src="https://user-images.githubusercontent.com/3369400/139448065-39a229ba-4b06-434b-bc67-616e2ed80c8f.png" style="padding-right:10px;" />
 
+<br />
+<br />
+
+### Github Gists
+
+[Blue Ocean Capstone Engineering Journal](https://gist.github.com/nsfoster87/20abbab97acdd667b45fac54355f849c#file-001-blue-ocean-engineering-journal-homepage-md)
+
+[System Design Capstone Engineering Journal](https://gist.github.com/nsfoster87/54eb130b7a2b5638873a3786f9542ed4#file-001-sdc-engineering-journal-md)
+
 [linkedin]: https://linkedin.com/in/nate-foster
 [instagram]: https://instagram.com/natefosters
