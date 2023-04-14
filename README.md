@@ -1,4 +1,4 @@
-# Hi there, I'm Nate 👋
+# Hi there, I'm Nate 👋🏼
 
 ## I'm a fullstack software developer
 
