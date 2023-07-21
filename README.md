@@ -21,8 +21,6 @@
 
 [WorkTracker Engineering Journal](https://gist.github.com/nsfoster87/76b6a7822efe44efdbedb663e86ebfc6#file-001-worktracker-engineering-journal-md)
 
-[OpenAI Engineering Journal](https://gist.github.com/nsfoster87/00263ba03db7c064737e8c7632f32236#file-001-open-ai-engineering-journal-md)
-
 [Blue Ocean Capstone Engineering Journal](https://gist.github.com/nsfoster87/20abbab97acdd667b45fac54355f849c#file-001-blue-ocean-engineering-journal-homepage-md)
 
 [System Design Capstone Engineering Journal](https://gist.github.com/nsfoster87/54eb130b7a2b5638873a3786f9542ed4#file-001-sdc-engineering-journal-md)
